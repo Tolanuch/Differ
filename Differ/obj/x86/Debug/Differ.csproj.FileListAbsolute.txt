@@ -1,0 +1,5 @@
+E:\Differ\Differ\bin\Debug\Differ.exe
+E:\Differ\Differ\bin\Debug\Differ.pdb
+E:\Differ\Differ\obj\x86\Debug\Differ.exe
+E:\Differ\Differ\obj\x86\Debug\Differ.pdb
+E:\Differ\Differ\obj\x86\Debug\Differ.csprojResolveAssemblyReference.cache
